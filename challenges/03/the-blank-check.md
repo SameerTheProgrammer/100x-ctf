@@ -24,7 +24,7 @@ This challenge will test your understanding of basic data structures and algorit
 curl --location 'https://100x-server-production.up.railway.app/submit/checksum'
 --header 'Content-Type: application/json'
 --data '{
-    "msg": "<checksum>"
+    "checksum": "<checksum>"
 }'
 ```
 
