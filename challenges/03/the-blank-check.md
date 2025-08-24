@@ -30,7 +30,7 @@ curl --location 'https://100x-server-production.up.railway.app/submit/checksum'
 
 ## Hint
 
--   All the values in the `blanks` array are derived from the initial array `[a, b, c, d, e, f]`.
+-   Most of the values in the `blanks` array are derived from the initial array `[a, b, c, d, e, f]`.
 -   Look for patterns in the code to understand how the `blanks` array can be populated.
 
 Good luck, and may your code be bug-free!
