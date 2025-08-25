@@ -43,6 +43,8 @@ All API endpoints for the challenges use the following base URL:
 
 `https://100x-server-production.up.railway.app`
 
+NOTE: There is something special in the URL, find it and win everything
+
 ---
 
 ## 🔑 Public key wallets
