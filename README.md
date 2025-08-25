@@ -1,6 +1,6 @@
 # 🏴‍☠️ 100x CTF
 
-Welcome to **100x CTF** – 12 challenges, 12 iceSOL to win!
+Welcome to **100x CTF** – 6 challenges, 6 iceSOL to win!
 Are you sharp enough to capture them all?
 
 ---
